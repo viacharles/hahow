@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="247px" height="80px" viewBox="0 0 247 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Mobile_discount_card_secondary_garnish_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="249" height="80"></rect>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FFD947" offset="0%"></stop>
+            <stop stop-color="#FFB91D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="精選類別-+-全站滿額" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="卡片那個背景" transform="translate(-942.000000, -2032.000000)">
+            <g id="Group" transform="translate(120.000000, 120.000000)">
+                <g id="Mobile_discount_card_secondary_garnish_1" transform="translate(820.000000, 1912.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="#" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                    <path d="M1,83.0273443 C10.3116672,56.5987748 29.6869299,43.38449 59.1257882,43.38449 C103.284076,43.38449 106.921586,61.8481292 157.194858,58.1972365 C207.468129,54.5463438 198.908576,-10.2332744 276.310979,1.39512215 C319.744025,7.92019972 331.832426,21.5771312 311.196726,63.217214 C308.60939,68.4381133 303.365382,80.3657086 295.464702,99 L1,90.3291298 L1,83.0273443 Z" id="Path-13" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
